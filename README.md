@@ -1,6 +1,8 @@
-## Hi there, I'm Sturle Mandrup! 👋
+# Hi there, I'm Sturle Mandrup! 👋
 
-🌱 I'm currently learning Cloud Foundations
+## Welcome to My Cloud Foundations Journey! 🌥️
+
+🌱 I'm currently learning **Cloud Foundations** at Noroff.
 <!--
 **SturleMandrup/SturleMandrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
