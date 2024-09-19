@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Sturle Mandrup! 👋
 
+🌱 I'm currently learning Cloud Foundations
 <!--
 **SturleMandrup/SturleMandrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
